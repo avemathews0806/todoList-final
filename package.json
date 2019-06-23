@@ -1,0 +1,16 @@
+{
+    "name": "todoList-final",
+    "version": "1.0.0",
+    "homepage": "https://avemathews0806.github.io/todoList-final",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^2.0.1"
+    }
+}
